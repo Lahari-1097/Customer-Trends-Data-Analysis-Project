@@ -61,7 +61,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
       - Build presentation deck using Gamma AI
   
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/lahari-prathapagiri/)
+💼 LinkedIn: [Lahari Prathapagiri](https://www.linkedin.com/in/lahari-prathapagiri/)
 - Let’s connect professionally and grow your data career
 
 
